@@ -113,8 +113,8 @@ hr{
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
+  color: #ffffff;/
+  font-size: 125%;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -130,11 +130,11 @@ hr{
 }
 
 .contact-me{
+  width: 40%;
   margin: 50px auto 50px auto;
 }
 
 .contact-msg{
-  width: 40%;
   margin: 40px auto;
 }
 
@@ -146,5 +146,6 @@ hr{
 .footer-p{
   color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.65rem;
+  padding-top: 20px;
 }
